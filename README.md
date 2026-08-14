@@ -153,19 +153,13 @@ Contains the final report, presentation, or supporting project documents where p
 
 ## Privacy / Client Note
 
-This repository is a **portfolio version of a real-world capstone project**.
+This repository is a **portfolio version of a capstone project**.
 
-The client/company name has been removed from the repository to protect confidentiality. Any customer or business data included in this repository should be **anonymized, reduced, or replaced with sample/synthetic data**.
-
-No confidential customer information, personal information, internal business records, or sensitive company data should be uploaded to this public repository.
+The client/company name has been removed from the repository to protect confidentiality. .
 
 Some project figures, labels, or examples may also be changed or rounded while keeping the overall analytical approach and learning outcomes the same.
 
 ---
 
-## Key Learning
 
-This project gave me practical experience working with real business data from beginning to end. I improved my ability to clean data, build KPIs, analyze customer behaviour, create Power BI dashboards, and explain analytical results in simple business language.
-
-It also showed me the importance of understanding data limitations before making recommendations. For example, the available data supported revenue opportunity analysis, but information such as product costs, profit margins, shipping costs, and campaign spending was not available for full profitability analysis.
 
