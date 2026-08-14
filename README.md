@@ -137,7 +137,10 @@ Contains only anonymized, reduced, or sample data that is safe to share publicly
 ### `powerbi/`
 
 Contains Power BI dashboard screenshots or other dashboard documentation that can be shared publicly.
-
+<img width="1027" height="577" alt="huytre" src="https://github.com/user-attachments/assets/d3e35312-06e5-4b8c-999d-2692ecdc3eeb" />
+<img width="1134" height="634" alt="dashboard 2 aov" src="https://github.com/user-attachments/assets/7e43c375-27a8-4967-a7ef-fcf92a125bfa" />
+<img width="1098" height="618" alt="dashboard 3 sales" src="https://github.com/user-attachments/assets/74d385e4-bf45-43a0-be43-2c77fd56b713" />
+<img width="1087" height="616" alt="dashboard4" src="https://github.com/user-attachments/assets/7b5cb864-88aa-4f0f-ad88-d07ac8d59399" />
 ### `visuals/`
 
 Contains charts and graphs created during the project.
