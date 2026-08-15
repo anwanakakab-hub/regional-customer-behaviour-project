@@ -157,5 +157,15 @@ To protect client confidentiality, the company name and sensitive business infor
 
 ---
 
+Artifacts :
 
+Anonymized or sample dataset
+Jupyter Notebook with Python and R analysis
+Power BI dashboard screenshots
+Data visualizations and charts
+Project presentation slides
+Final project report
+Supporting documentation and methodology notes
+
+Only materials approved for public sharing are included. Confidential client data and sensitive business information are excluded.
 
