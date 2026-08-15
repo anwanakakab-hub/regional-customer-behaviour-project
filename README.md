@@ -153,11 +153,7 @@ Contains the final report, presentation, or supporting project documents where p
 
 ## Privacy / Client Note
 
-This repository is a **portfolio version of a capstone project**.
-
-The client/company name has been removed from the repository to protect confidentiality. .
-
-Some project figures, labels, or examples may also be changed or rounded while keeping the overall analytical approach and learning outcomes the same.
+To protect client confidentiality, the company name and sensitive business information have been removed. Any data included in this repository has been anonymized, reduced to a safe sample, or replaced where needed. No personal customer information or confidential client data is shared.
 
 ---
 
